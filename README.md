@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=50c878&height=4&animation=twinkling" width="100%" alt="ligne verte"/>
 
 # 💫 About Me:
--🎓 Étudiant en 2ème année de BUT Informatique.<br>-🚀 En plein apprentissage de Java, SQL et du moteur Unity.<br>-📱 Je travaille actuellement sur mon premier jeu vidéo mobile.<br>-🎮 Passionné de jeux vidéo et de sport.<br>-🎖️ Ancien du Lycée militaire d'Autun : "Pour la patrie, toujours présent."<br><br>-🎓 2nd-year undergraduate student in Computer Science.<br>-🚀 Currently learning Java, SQL, and the Unity engine.<br>-📱 Currently working on my first mobile video game.<br>-🎮 Passionate about video games and sports.<br>-🎖️ Alumnus of the Autun Military High School: "For the homeland, always present."
+-🎓 Étudiant en 2ème année de BUT Informatique.<br>-🚀 En plein apprentissage de Java, SQL et du moteur Unity.<br>-🎮 Passionné de jeux vidéo et de sport.<br>-🎖️ Ancien du Lycée militaire d'Autun : "Pour la patrie, toujours présent."<br><br>-🎓 2nd-year undergraduate student in Computer Science.<br>-🚀 Currently learning Java, SQL, and the Unity engine.<br>-🎮 Passionate about video games and sports.<br>-🎖️ Alumnus of the Autun Military High School: "For the homeland, always present."
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=50c878&height=4&animation=twinkling" width="100%" alt="ligne verte"/>
 
